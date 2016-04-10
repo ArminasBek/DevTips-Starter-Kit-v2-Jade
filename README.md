@@ -4,7 +4,7 @@ Based on DevTips Starter Kit V2. Use this as a simple structure for a simple sta
 
 Visit [DevTipsStarterKit.com/](http://devtipsstarterkit.com) for more info.
 
-<img src="https://github.com/DevTips/DevTips-Starter-Kit/blob/master/assets/img/starter-kit-cover.jpg?raw=true"
+<img src="https://github.com/DaveArm/DevTips-Starter-Kit-v2-Jade/blob/master/assets/img/starter-kit-cover.jpg?raw=true"
 alt="Show some love to DevTips" />
 
 ***
